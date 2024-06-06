@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">Backend developer</h3>
 
-- 👨‍💻 Telegram [https://t.me/kotenske](@kotenske)
+- 👨‍💻 Telegram [@kotenske](https://t.me/kotenske)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
